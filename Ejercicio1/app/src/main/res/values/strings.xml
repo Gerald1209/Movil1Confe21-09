@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="etiquetamensaje1">Escribe un numero del 1 al 7</string>
+    <string name="msgBtn">Obtener Día</string>
+</resources>
